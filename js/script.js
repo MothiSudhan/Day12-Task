@@ -1,0 +1,1 @@
+console.log("This is CSS&HTML project for a Git-Hub page");
